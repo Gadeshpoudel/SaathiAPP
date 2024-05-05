@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313269022570",
+    "project_id": "saathiapp-6e64d",
+    "storage_bucket": "saathiapp-6e64d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313269022570:android:782fd53a2b0a2c76b5bf13",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp_clone_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapMzzdSWzeMr0YuOmvkoTOHWTp5ApITY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
